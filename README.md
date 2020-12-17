@@ -11,4 +11,6 @@ Additionally, the asteroid's orbit in relation to the orbits of Earth and Mars i
 
 1998 OH is a potentially hazardous asteroid, as its minimum orbit intersection distance with Earth is 0.03 AU and its absolute magnitude is 15.8. Since 1998 OH is a potential danger to Earth, its orbit must be closely monitored and updated.
 
+**EphemerisGenerator.py** takes in six classical orbital elements and returns the object's RA/DEC at a time-specific moment.
+
 ***Feel free to send any questions to me at sarahtang07@gmail.com!***
