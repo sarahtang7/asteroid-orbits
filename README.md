@@ -1,5 +1,7 @@
 # asteroid-orbits
-Determines the orbital characteristics of a given near-Earth asteroid.
+Determines the orbital characteristics of a given near-Earth asteroid. 
+
+Project completed as part of the 2019 Summer Science Program in Astrophysics.
 
 OrbitDetermination.py takes in the RA/DEC of an asteroid as well as the corresponding sun vectors from three distinct observations of the asteroid. Utilizing the Method of Gauss, the six classical orbital elements characterizing the asteroid's orbit are calculated. Monte Carlo simulations (1000 iterations) may be run on the data to generate the full width half maximum uncertainty of the six classical orbital elements.
 
